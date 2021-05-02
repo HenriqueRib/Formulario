@@ -8,7 +8,7 @@ Esses arquivos foram testados da segunte forma.
 
 Assim é possivel abrir e testar os arquivos que foram desenvolvidos.
 
-#Objetivo
+# Objetivo
 
-É possivel fazer um formulario e assim pegar informações<br> atravez de
+É possivel fazer um formulario e assim pegar informações <br> atravez de
 uma página HTML na web
