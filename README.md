@@ -22,4 +22,4 @@ Uma aplicação que possibilita o usuário gerenciar o consumo das mensagens de 
 
 ## Começando
 
-1- Aqui ![alt text]( /ass
+1- Aqui ![alt text]( /assets/imagens/manual/Login.jpeg)
