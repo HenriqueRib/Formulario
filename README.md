@@ -12,17 +12,3 @@ Assim é possivel abrir e testar os arquivos que foram desenvolvidos.
 
 É possivel fazer um formulario e assim pegar informações <br> atravez de
 uma página HTML na web
-
-
-Teste ... depois apagar 
-
-# funcionalidade
-
-Uma aplicação que possibilita o usuário gerenciar o consumo das mensagens de áudio enviadas.
-
-## Começando
-
-## Começando
- ![alt text]( /assets/imagens/manual/Login.jpeg)
- 
- 1- Como a imagem a ci
